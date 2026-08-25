@@ -1,4 +1,4 @@
-<p align="right">English | <a href="ru#readme">Русский</a></p>
+<p align="right">English | </p>
 
 ## Padavan builder
 
