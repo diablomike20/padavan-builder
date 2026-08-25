@@ -1,5 +1,3 @@
-<p align="right">English | </p>
-
 ## Padavan builder
 
 Automated Padavan firmware builder. Runs on almost any modern Linux. Windows can run it with Windows Subsystem for Linux (WSL) or virtual machine.
